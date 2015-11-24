@@ -16,10 +16,11 @@ You can download a zipped copy of the .workflow files here: https://github.com/a
 
 Right click on the relevant .plist or .mobile config file and select the action from the services menu.  If you only have a couple of services they will be available directly in the contextual menu.
 
-Thanks to the Mac Mule for the openssl code - https://macmule.com/2015/11/16/making-downloaded-jss-configuration-profiles-readable/
-
 **Important Note 1** - You ned to have a copy of mcxtoprofile (https://github.com/timsutton/mcxToProfile/blob/master/mcxToProfile.py) in your default path.  Copy it to somewhere like /usr/local/bin/ to use the automator service.
 
 **Important Note 2** - You can only use the mcxtoprofile service on an xml1 .plist file.  If its in binary format, use the xml1 convertor first.
 
 **Important Note 3** - Add the .workflow files to ~/Library/Services so they appear in your contextual menu
+
+Thanks to the Mac Mule for the openssl code - https://macmule.com/2015/11/16/making-downloaded-jss-configuration-profiles-readable/
+
