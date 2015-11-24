@@ -9,9 +9,11 @@ These automator services that let you:
 - **De-Sign MobileConfig** - Right-click on a .mobileconfig file downloaded from your JSS, remove the JSS signing and convert to xml1 (so you can edit it in a text editor)
 
 **Downloading and installing**
+
 You can download a zipped copy of the .workflow files here: https://github.com/amsysuk/automator/releases/download/0.1/services.zip.  Unzip and drop them into your ~/Library/Services folder to install.
 
 **Usage**
+
 Right click on the relevant .plist or .mobile config file and select the action from the services menu.  If you only have a couple of services they will be available directly in the contextual menu.
 
 Thanks to the Mac Mule for the openssl code - https://macmule.com/2015/11/16/making-downloaded-jss-configuration-profiles-readable/
