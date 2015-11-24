@@ -1,6 +1,8 @@
 # automator
 
-Here's a few automator services that let you:
+Do you find yourself having to convert .plist files to xml so you can edit them?  Do you create .mobileconfig files from .plist files using mcxtoprofile.py?  Do you download configuration profiles from your JSS and have to remove the signing and convert to xml?  Then these little automator contextual menus are for you!
+
+These automator services that let you:
 
 - **Convert to XML1** - Right-click on a .plist file, copy it to the desktop and convert it to xml1 (so you can edit it in a text editor)
 - **Create MobileConfig** - Right-click on a xml1 .plist file and create a .mobileconfig from it (uses mcxtoprofile.py and assumes you've got the python script in your default path)
