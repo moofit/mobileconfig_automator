@@ -10,7 +10,8 @@ These automator services that let you:
 
 **Downloading and installing**
 
-You can download a zipped copy of the .workflow files here: https://github.com/amsysuk/automator/releases/download/0.2/services.zip.  Unzip and drop them into your ~/Library/Services folder to install.
+You can download a zipped copy of the .workflow files here: https://github.com/moofit/xmlAutomator/releases
+Unzip and drop them into your ~/Library/Services folder to install.
 
 **Usage**
 
